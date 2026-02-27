@@ -1,1 +1,1 @@
-# GuessTheNumber
+streamlit run main.py
